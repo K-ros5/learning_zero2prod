@@ -10,6 +10,8 @@ path = "src/lib.rs"
 path = "src/main.rs"
 name = "learning_zero2prod"
 
+
+
 [dev-dependencies]
 reqwest = "0.11"
 
